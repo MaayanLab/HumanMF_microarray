@@ -1,0 +1,51 @@
+	Score	Drug	Dose	Timepoint	Cell Type
+1	0.0464	Narciclasine	10.0um	24.0h	A375
+2	0.0385	BRD-K04853698	10.0um	6.0h	MCF7
+3	0.0385	Phorbol-12-Myristate-13-Acetate (Pma)	10.0um	6.0h	PL21
+4	0.0385	BRD-A36630025	0.35um	6.0h	U937
+5	0.0355	Ingenol 3, 20-Dibenzoate	10.0um	6.0h	SKM1
+6	0.0345	Narciclasine	10.0um	6.0h	A549
+7	0.0345	BRD-K04853698	10.0um	24.0h	MCF7
+8	0.0335	Cot-10B	44.4um	6.0h	VCAP
+9	0.0325	Parthenolide	10.0um	24.0h	A375
+10	0.0325	Narciclasine	10.0um	6.0h	HT29
+11	0.0325	Emetine Dihydrochloride Hydrate (74)	0.63um	6.0h	MCF7
+12	0.0316	Teniposide	10.0um	6.0h	A375
+13	0.0316	Phorbol-12-Myristate-13-Acetate (Pma)	10.0um	6.0h	NOMO1
+14	0.0306	Homoharringtonine	10.0um	24.0h	HCC515
+15	0.0306	Etoposide	10.0um	6.0h	A375
+16	0.0306	Mst- 312	11.1um	24.0h	A375
+17	0.0306	Narciclasine	10.0um	6.0h	HCC15
+18	0.0306	528116.Cdx	0.09um	24.0h	MCF7
+19	0.0306	BRD-K92317137	10.0um	6.0h	NOMO1
+20	0.0306	Ingenol 3, 20-Dibenzoate	10.0um	6.0h	PL21
+21	0.0306	Narciclasine	10.0um	6.0h	SKMEL28
+22	0.0306	BRD-K76674262	10.0um	24.0h	MCF7
+23	0.0296	Ingenol 3, 20-Dibenzoate	10.0um	6.0h	HCC515
+24	0.0296	Narciclasine	10.0um	6.0h	HCC515
+25	0.0296	BRD-K04853698	10.0um	6.0h	HT29
+26	0.0296	Curcumin	48.0um	24.0h	PC3
+27	0.0296	BRD-A35588707	10.0um	6.0h	A375
+28	0.0296	Mitoxantrone	0.37um	24h	BT20
+29	0.0286	Pd 407824	10.0um	24.0h	HA1E
+30	0.0286	Sarmentogenin	10.0um	24.0h	PC3
+31	0.0286	Salermide	120.0um	24.0h	A375
+32	0.0286	4-Demethoxydaunorubicin Hydrochloride (65)	0.08um	6.0h	A375
+33	0.0286	Methylene Blue	10.0um	24.0h	MCF7
+34	0.0286	Ym-155	0.31um	24.0h	MCF7
+35	0.0286	Narciclasine	10.0um	6.0h	MDST8
+36	0.0286	Narciclasine	10.0um	6.0h	TYKNU
+37	0.0276	Digitoxigenin	10.0um	6.0h	A549
+38	0.0276	Narciclasine	10.0um	6.0h	H1299
+39	0.0276	Importazole	60.0um	6.0h	HA1E
+40	0.0276	Importazole	60.0um	24.0h	MCF7
+41	0.0276	BRD-K00317371	10.0um	24.0h	MCF7
+42	0.0276	Narciclasine	10.0um	24.0h	MCF7
+43	0.0276	Imd 0354	10.0um	24.0h	MCF7
+44	0.0276	Narciclasine	10.0um	6.0h	MCF7
+45	0.0276	BRD-K92317137	10.0um	6.0h	THP1
+46	0.0276	Emetine Hydrochloride	10.0um	24.0h	A375
+47	0.0276	BRD-K91370081	10.0um	6.0h	A375
+48	0.0276	BRD-K80348542	10.0um	6.0h	A549
+49	0.0276	Mitoxantrone	0.37um	24h	A375
+50	0.0266	Niclosamide	10.0um	24.0h	PC3
